@@ -8,3 +8,7 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.5.4/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.5.4/maven-plugin/reference/html/#build-image)
 
+Postman Collection Link for API's:
+
+* [Postman Collection](https://www.getpostman.com/collections/9de7e8f62a83e6fe0464)
+
